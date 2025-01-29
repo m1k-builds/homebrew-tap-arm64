@@ -1,6 +1,6 @@
 cask "pixelpulse2" do
     version "pp2-libsmu-1.0.4-2025-01-29"
-    sha256 "db9144f10bd1b6821011f10d3199b1ffa376d6275349d3571e32bc4b16395d35" # Replace with your PKG's SHA-256 hash
+    sha256 "5b7623e32ee1454e09eaf6528ea0623630a30794d465a3a44a0a23695c8f2fa7" # Replace with your PKG's SHA-256 hash
   
     url "https://github.com/m1k-builds/Pixelpulse2-macOS/releases/latest/download/pp2-arm64.zip"
     name "Pixelpulse2"
